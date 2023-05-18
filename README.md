@@ -1,6 +1,8 @@
 ### Hi there 👋 thanks for coming by!
 
-I am Ron Ismaili from North Macedonia and I am an aspiring data scientist!
+I am Ron Ismaili from North Macedonia and I am an aspiring data scientist.
+
+Currently I'm studying Computer Sciences at the South East European University in Tetovo.
 
 <!--
 **RonIsmaili/RonIsmaili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
