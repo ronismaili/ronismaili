@@ -1,6 +1,6 @@
 ## Hi there 👋 thanks for coming by!
 
-I am Ron Ismaili, a second year computer science student at the South East European University in Tetovo, North Macedonia, and I am an aspiring data scientist.
+I am Ron Ismaili, a second year computer science student at the South East European University in Tetovo, North Macedonia.
 
 The following are some of the projects I have worked on:
 
