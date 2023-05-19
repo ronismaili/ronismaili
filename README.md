@@ -25,7 +25,7 @@ During my third semester, at Universidad Loyola, I took the course **Motion Capt
 My contribution to this video game was writing the code for a mini game called Human Calculator. If you are interested at trying out my mini game or simply taking a look at the scripts I wrote, please check it out by *[clicking me](https://github.com/RonIsmaili/Human-Calculator)*.
 
 # **SQL:**
-I am Currently in my fourth semester, at the South East European University, and I am taking the course **Databases** where we are working on creating our own database. 
+I am currently in my fourth semester, at the South East European University, and I am taking the course **Databases** where we are working on creating our own database. 
 
 If you are interested at looking what me and my group have created for our fictional computer company, OneZero, please check it out by *[clicking me](https://github.com/RonIsmaili/OneZero)*.
 
