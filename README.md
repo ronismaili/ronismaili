@@ -1,6 +1,6 @@
 ## Hi there 👋 thanks for coming by!
 
-I am Ron Ismaili, a second year computer science student at the South East European University (SEEU) in Tetovo, North Macedonia.
+I am Ron Ismaili, a second-year computer science student at the South East European University (SEEU) in Tetovo, North Macedonia.
 
 The following are some of the projects I have worked on:
 
@@ -32,4 +32,4 @@ If you are interested at looking what me and my group have created for our ficti
 # **HTML, CSS & Javascript:**
 During my second semester, at the South East European University, I took the course **Internet Technologies** where we had to work with HTML, CSS & Javascript to create a website for our final project.
 
-I created a fully responsive and modern looking website using the above mentioned technologies. The theme of the website was around nature and hiking and that is why I called this project Nature And Hiking, if you are interested at taking a look, please check it out by *[clicking me](https://github.com/RonIsmaili/Nature-And-Hiking)*.
+I created a fully responsive and modern looking website using the above-mentioned technologies. The theme of the website was around nature and hiking and that is why I called this project Nature And Hiking, if you are interested at taking a look, please check it out by *[clicking me](https://github.com/RonIsmaili/Nature-And-Hiking)*.
